@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sinha"
+  given-names: "Nirvik"
+  orcid: "https://orcid.org/0000-0001-6960-7159"
+- family-names: "Israely"
+  given-names: "Sharon"
+- family-names: "Ben Harosh"
+  given-names: "Ora"
+- family-names: "Harel"
+  given-names: "Ran"  
+- family-names: "Dewald"
+  given-names: "Julius PA"
+- family-names: "Prut"
+  given-names: "Yifat"  
+title: "Disentangling-acute-motor-deficits-and-adaptive-responses-evoked-by-the-loss-of-cerebellar-output-"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-08-07
+url: "https://github.com/NirvikNU/Disentangling-acute-motor-deficits-and-adaptive-responses-evoked-by-the-loss-of-cerebellar-output-"
